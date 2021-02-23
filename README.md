@@ -9,6 +9,10 @@ None
 # Usage
 ![README](./Images/me.png)
 Format: ![Alt Text](url)
+![README](./Images/contact.png)
+Format: ![Alt Text](url)
+![README](./Images/portfoliopage.png)
+Format: ![Alt Text](url)
 
 
 # Collaborators
