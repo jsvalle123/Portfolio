@@ -7,7 +7,7 @@ You also can contact me through LinkedIn and email.
 None
 
 # Usage
-![README](./Images/me.png)
+![README](./Images/update.png)
 Format: ![Alt Text](url)
 ![README](./Images/contact.png)
 Format: ![Alt Text](url)
